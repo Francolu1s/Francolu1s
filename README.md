@@ -23,10 +23,12 @@
 - Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo
 ___
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Francolu1s&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)  
-![Luis Franco GitHub stats](https://github-readme-stats.vercel.app/api?username=Francolu1s&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false) <br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Francolu1s&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)   ![Luis Franco GitHub stats](https://github-readme-stats.vercel.app/api?username=Francolu1s&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
 
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francolu1s&layout=compact)](https://github.com/Francolu1s/github-readme-stats)
 _____
  
  ##### Others
